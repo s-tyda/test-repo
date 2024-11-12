@@ -7,6 +7,6 @@ lista:
 - cos
 - element2
 - element
-- blablamghd
+- blabla
 
 NOWY FICZER
